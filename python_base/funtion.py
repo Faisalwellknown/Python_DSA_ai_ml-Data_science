@@ -1,7 +1,11 @@
-x = "awsome"
-
 def myfunc():
-    print("python is " + x)
+    global x
+    x = "Faisal"
+    
     
 
 myfunc()
+
+print("python is "+ x)
+
+type(x)
