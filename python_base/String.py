@@ -12,3 +12,5 @@ print(b.strip())
 
 
 print(b.replace("H","K"))
+
+print(b.split(","))
