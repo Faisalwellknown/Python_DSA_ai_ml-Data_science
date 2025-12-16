@@ -1,1 +1,4 @@
-hi
+a = " Faisal"
+
+
+print(a.upper())
