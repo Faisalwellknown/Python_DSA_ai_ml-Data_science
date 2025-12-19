@@ -1,1 +1,8 @@
-print (9>10)
+"""print (9>10)"""
+
+a = 5
+b = 10
+if a > b :
+    print("a is greater than b") 
+else :
+    print("b is greater than a")
