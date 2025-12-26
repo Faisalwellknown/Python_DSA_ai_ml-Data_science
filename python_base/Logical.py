@@ -7,3 +7,4 @@ not	Reverse the result, returns False if the result is true	not(x < 5 and x < 10
 x = 5
 print(x> 0 and x<10)
 print(x> 0 or x<10)
+print(not(x> 0 and x<10))
